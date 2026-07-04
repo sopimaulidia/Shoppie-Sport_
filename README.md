@@ -1,3 +1,5 @@
+LINK GITHUB: https://github.com/sopimaulidia/Shoppie-Sport
+
 # Shoppie-Sport 🏃‍♂️
 
 Website e-commerce perlengkapan olahraga — dibangun dengan **HTML, CSS, dan JavaScript murni (vanilla)**, tanpa framework maupun library eksternal, sesuai ketentuan tugas.
